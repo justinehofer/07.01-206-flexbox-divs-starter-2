@@ -117,9 +117,7 @@ body {
 }
 
 .div-1, .div-2, .div-3 {
-  /*give the divs a width of 30%, add display:flex, set justify-content and align-items to center*/
   align-items: center;
-  background-color: #f16059;
   color: #fff;
   display: flex;
   font-size: 1.6em;
