@@ -121,7 +121,7 @@ body {
   color: #fff;
   display: flex;
   font-size: 1.25em;
-  height: 300px;
+  height: auto;
   justify-content: center;
   line-height: 1.5em;
   width: 30%;
