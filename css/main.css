@@ -218,7 +218,8 @@ body {
     }
 
     .div-1, .div-2, .div-3 {
-        border-right: 1px solid #555;        
+        border-right: 1px solid #555;
+        padding-right: 30px;   
     }
 }
 
